@@ -3,6 +3,7 @@
 The idea behind this project is to cover some of the most important functionalities used in Vue creating a real PWA application.
 
 ![](doc/demo.gif)
+<img src="https://portfolio-25d76.web.app/assets/img/shop.rudysbbq.com.png" />
 
 ## Quick Start
 
